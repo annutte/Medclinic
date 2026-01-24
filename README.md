@@ -66,4 +66,3 @@
 - OpenAI API
 - GigaChat API
 - SEO/GEO-копирайтинг  
-- Google PSE
