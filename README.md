@@ -29,11 +29,12 @@
 ---
 
 ## 📷 Скриншоты
-👉 [Workflow на n8n]  
-👉 [SubWorkflow для вычисления доступных слотов]  
-👉 [Grist LightCRM – настраиваемый интерфейс для управления базой данных]  
-👉 [Диалоги с клиетами]  
-👉 [Запись ответов Ассистента в Google Sheets]  
+👉 [Workflow на n8n](https://github.com/annutte/Medclinic/blob/main/img/n8n-Workflow.jpg)  
+👉 [SubWorkflow для вычисления доступных слотов](https://github.com/annutte/Medclinic/blob/main/img/n8n-slots-SubWorkflow.jpg)  
+👉 [Grist LightCRM – настраиваемый интерфейс для управления базой данных](https://github.com/annutte/Medclinic/blob/main/img/Grist-LightCRM.jpg)  
+👉 [Диалоги с клиетами 1](https://github.com/annutte/Medclinic/blob/main/img/dialogs-2.jpg)  
+👉 [Диалоги с клиетами 2](https://github.com/annutte/Medclinic/blob/main/img/dialogs-1.jpg)  
+👉 [Запись ответов Ассистента в Google Sheets](https://github.com/annutte/Medclinic/blob/main/img/Google-Sheets.jpg)  
 
 ---
 
